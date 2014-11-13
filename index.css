@@ -4,8 +4,28 @@ body {
   font-weight: 300;
 }
 
+#emblem {
+  float:left;
+  margin: 15px;
+  width: 80px;
+}
+
+#header {
+  margin-left: 300px;
+}
+
 #landing-header {
   color: #FDD40A;
-  text-align: center;
-  width: 100%;
+  font-size: 72px;
+  margin: 0px;
+}
+
+#subtitle {
+  color: #FFFFFF;
+  font-size: 22px;
+  margin: 0px 15px;
+}
+
+#wrapper {
+  float: left;
 }
